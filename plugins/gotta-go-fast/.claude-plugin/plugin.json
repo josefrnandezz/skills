@@ -1,0 +1,6 @@
+{
+  "name": "gotta-go-fast",
+  "version": "0.1.0",
+  "description": "Planificación en sub-issues de GitHub y entrega desatendida de slices (coordinador, worker y revisor adversarial) orquestada con Orca.",
+  "repository": "https://github.com/josefrnandezz/skills"
+}

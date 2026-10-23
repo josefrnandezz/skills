@@ -1,0 +1,13 @@
+{
+  "name": "josefrnandezz-skills",
+  "owner": {
+    "name": "Jose Fernández"
+  },
+  "plugins": [
+    {
+      "name": "gotta-go-fast",
+      "source": "./plugins/gotta-go-fast",
+      "description": "Planificación en sub-issues de GitHub y entrega desatendida de slices (coordinador, worker y revisor adversarial) orquestada con Orca."
+    }
+  ]
+}
